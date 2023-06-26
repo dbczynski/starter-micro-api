@@ -2,39 +2,5 @@ header {
     color:black;
     padding: 0;
     margin: 0;
-}
-#header-hg{
-    width: fit-content;
-
-    border: 3px solid brown;
-    border-radius: 0.5em;
-    height: 0.8em;
-    font-size: 140px;
-    padding-left: 0.1em;
-    
-}
-.hg-cart{
-    border-right: 3px solid brown;
-    width:fit-content;
-    writing-mode: vertical-lr; 
-}
-
-.hg-vert {
-    width: initial;
-    height: initial;
-    font-size: 0.5em;
-    font-weight: 900;
-    display: block;
-}
-.hg-cuttop {
-    width: initial;
-    height: initial;
-    text-indent: -25%;
-}
-.hg-single {
-    width: initial;
-    height: initial;
-    font-size: 0.6em;
-    font-weight: 400;
-    text-indent: -0%;
+    font-size: 50px;
 }

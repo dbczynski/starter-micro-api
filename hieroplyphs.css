@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Aaron;
+    src: url(AaronUMdCAlpha100.woff)
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs&display=swap');
+#header-hg{
+    height: fit-content;
+    width: fit-content;
+    
+    border: 4px solid brown;
+    border-radius: 1.3em;
+    padding: 0.1em 0.5em;
+
+    letter-spacing: -0em;
+    font-family: "Noto Sans Egyptian Hieroglyphs";
+    font-stretch: ultra-condensed;
+}
+
+.hg-cart{
+    width: fit-content;
+    border-right: 4px solid brown;
+    
+    font-weight: 500;
+}
+
+.hg-sq{
+    
+    writing-mode: vertical-lr; 
+    height: fit-content;
+    width: 5ex;
+    display: inline-block;
+}
+.hg-cuttop {
+    text-indent: -0%;
+    font-weight: 900;
+}
+.hg-single {
+
+    font-size: 200%;
+}
+.hg-ins-out{
+    font-size: 200%;
+}
+.hg-ins-lb{
+    position: relative;
+    bottom: 1.5em;
+    letter-spacing: -0.3em;
+    font-weight: 900;
+}
