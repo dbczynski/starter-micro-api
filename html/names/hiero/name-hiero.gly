@@ -10,5 +10,5 @@
 ++JSesh_small_sign_centered false +s
 ++JSesh_page_direction LEFT_TO_RIGHT +s
 ++JSesh_max_quadrantHeight 18.0 +s
-++JSesh_page_orientation HORIZONTAL +s
-I10&&&(D38:D35)-A1-S14A-=D58-V13:F20-A17
+++JSesh_page_orientation VERTICAL +s
+I10_&&&(D38_:D35_)-A1_-S14A-=D58*(V13:F20)-A17_
