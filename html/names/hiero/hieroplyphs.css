@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Noto Sans Egyptian Hieroglyphs";
     font: stretch 500px;
-    src: url(fonts/NewGardiner/NewGardinerSMP.ttf);
+    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs&display=swap');
 }
   
 body {
