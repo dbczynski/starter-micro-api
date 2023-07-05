@@ -36,13 +36,7 @@ body {
     border: 1px solid black;
 }
 
-.hg-ins-lb{
-    position: fixed;
-    bottom: 0.1em;
-    letter-spacing: -0.3em;
-    font-weight: 900;
-    font-size: 50%
-}
+
 .hg-cuttop {
     text-indent: -0%;
     font-weight: 900;
