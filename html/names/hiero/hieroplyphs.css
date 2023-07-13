@@ -1,11 +1,10 @@
 @font-face {
-    font-family: "Noto Sans Egyptian Hieroglyphs";
-    font: stretch 500px;
-    src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs&display=swap');
+    font-family: "Noto Hieroglyphs";
+    src: url(NotoSansEgyptianHieroglyphs-Regular.ttf);
 }
   
 body {
-    font-family: "Noto Sans Egyptian Hieroglyphs";
+    font-family: "Noto Hieroglyphs";
     font-stretch: ultra-condensed;
     font-size: 48px;
     margin: 0;
