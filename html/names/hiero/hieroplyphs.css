@@ -1,8 +1,11 @@
 @font-face {
     font-family: "Noto Hieroglyphs";
-    src: url(NotoSansEgyptianHieroglyphs-Regular.ttf);
+    src: url(/asset/fonts/NotoSansEgyptianHieroglyphs/unhinted/otf/NotoSansEgyptianHieroglyphs-Regular.otf);
 }
-  
+@font-face {
+    font-family: "Aaron Hieroglyphs";
+    src: url(https://raw.githubusercontent.com/HieroglyphsEverywhere/Fonts/master/Experimental/AaronUMdCAlpha100.woff);
+}
 body {
     font-family: "Noto Hieroglyphs";
     font-stretch: ultra-condensed;
